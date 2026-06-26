@@ -1,0 +1,8 @@
+# Source this before running the scripts to retarget the brand:
+#   source examples/brand.conf.example   (after editing)
+export ACCENT=0xC6F23C     # primary accent (hairline, dot, wordmark full-stop). Signal Lime by default.
+export BASE=0x0E0F12       # bar / background colour
+export TEXTCOL=0xF5F6F7    # caption + wordmark text colour
+export FONT=_fonts/sg.ttf  # display TTF (Space Grotesk by default)
+export DOTFONT=_fonts/dot.ttf  # any TTF containing the ● glyph
+export WORDMARK=Oloye      # name shown top-left; accent full-stop is added automatically. Empty = none.

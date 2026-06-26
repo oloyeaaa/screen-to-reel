@@ -1,0 +1,6 @@
+# START|END|TEXT  (seconds). Keep lines short; time them to the on-screen action.
+# Lines starting with # are ignored.
+0|10|I briefed my AI team
+10|22|Sade writes the copy
+22|33|Ada designs it
+33|46|Theo builds the site
