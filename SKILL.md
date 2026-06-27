@@ -96,6 +96,10 @@ TikTok/Reels strip most file metadata. Reach is driven by: **caption text** (it 
 - Keep it 30-45s; open on motion, not a static title.
 - Re-encode when crossfading (stream-copy concat breaks on dissimilar clips); `-crf 18`.
 
+## Templates (named video types)
+Reusable formats built on this pipeline live in `templates/`. Read the template, then run the steps.
+- **`templates/team-build.md`** — "Team Build": your AI team builds a real deliverable live → reveal → give away the skill. Swap the *angle* (the `Hook` comp presets: Cost / Time / POV / Face) and the *subject* (website, landing page, lead magnet, automation). This is Oloye.'s repeatable content engine.
+
 ## Make it yours
 Set `ACCENT`, `BASE`, `FONT`, `WORDMARK` for any brand and the whole look retargets. The structure stays the same.
 
